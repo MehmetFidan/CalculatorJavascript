@@ -1,0 +1,88 @@
+table{
+    background-color: #444348;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.4px;
+    border-radius: 5px;
+}
+table .DarkGrayButton{
+    background-color:#646567;
+    width: 74px;
+    text-align: center;
+    line-height: 60px;
+    font-size:1.5em;
+    color: white;
+}
+table .GrayButton{
+    background-color:#7E7F81;
+    width: 74px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 1.5em;
+    color: white;
+}
+table .OrangeButton{
+    background-color: orange;
+    width: 74px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 2em;
+    color: white;
+}
+.hesap{
+    width: 450px;
+    margin: auto;
+}
+table .NumberArea{
+    padding:10px;
+    text-align: right;
+    height: 45px;
+    color: #fff;
+    line-height: 48px;
+    box-sizing: border-box;
+
+}
+table .NumberArea .gosterge{
+    text-align: right;
+    font-size: 60px;
+    padding-right:-50px;
+}
+table .NumberArea .RedButton{
+    border:1px solid #FF5751;
+    background-color:#FF5751;
+    width:17px;
+    height:17px;
+    border-radius: 90px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    float: left;
+    margin-left: 5px;
+    margin-top: -15px;
+
+}
+table .NumberArea .YellowButton{
+    border:1px solid #DFC22A;
+    background-color:#DFC22A;
+    width:17px;
+    height:17px;
+    border-radius: 90px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    float: left;
+    margin-left: 8px;
+    margin-top: -15px;
+
+}
+table .NumberArea .GreenButton{
+    border:1px solid #5BC120;
+    background-color:#5BC120;
+    width:17px;
+    height:17px;
+    border-radius: 90px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    float: left;
+    margin-left: 8px;
+    margin-top: -15px;
+
+}
